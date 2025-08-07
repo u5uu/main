@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Mehttps://github-readme-stats.vercel.app/api?username=u5uu&show_icons=true&theme=radical
+### 👨‍💻 About Me https://github-readme-stats.vercel.app/api?username=u5uu&show_icons=true&theme=radical
 ---
 
 ### 📂 Projects & Contact
