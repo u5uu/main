@@ -14,7 +14,6 @@
 ### 📂 Projects & Contact
 
 - All of my projects are available at **[github.com/u5uu](https://github.com/u5uu)**
-- Reach me on Instagram: **turki.cs**
 
 ---
 
