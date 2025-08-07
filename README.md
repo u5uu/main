@@ -3,7 +3,12 @@
 
 ---
 
-### 👨‍💻 About Me https://github-readme-stats.vercel.app/api?username=u5uu&show_icons=true&theme=radical
+### 👨‍💻 About Me
+
+- 🔐 Aspiring cybersecurity student passionate about protecting systems  
+- 🛡️ Exploring network security, ethical hacking, and vulnerability assessment  
+- 📖 Constantly learning and practicing new skills to stay ahead   
+
 ---
 
 ### 📂 Projects & Contact
@@ -26,5 +31,4 @@
 
 ![Null's GitHub stats](https://github-readme-stats.vercel.app/api?username=u5uu&show_icons=true&theme=radical)
 
----
 
