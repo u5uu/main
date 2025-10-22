@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/636092580307664897">
-    <img src="https://lanyard.cnrad.dev/api/636092580307664897?borderRadius=8px&idleMessage=Offline&hideDiscrim=true&bg=1e1e2e&animated=true&borderThickness=4&theme=dark&showDisplayName=true" alt="Discord Status"/>
+    <img src="https://discord.c99.nl/widget/theme-4/636092580307664897.png" alt="Discord Status"/>
   </a>
 </p>
 
