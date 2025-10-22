@@ -27,12 +27,21 @@
 
 ---
 
+### 🪄 Discord Status
+
+<p align="center">
+  <a href="https://discord.com/users/636092580307664897">
+    <img src="https://lanyard.cnrad.dev/api/636092580307664897?borderRadius=8px&idleMessage=Offline&hideDiscrim=true&bg=1e1e2e&animated=true&borderThickness=4&theme=dark&showDisplayName=true" alt="Discord Status"/>
+  </a>
+</p>
+
+---
+
 ### 🛠 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 
 ---
 
@@ -41,7 +50,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=u5uu&show_icons=true&theme=radical" alt="Sir Vortx GitHub Stats"/>
 </p>
-
 
 ---
 
